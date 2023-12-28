@@ -8,7 +8,7 @@
 
 Download Python3 - https://www.python.org/downloads/ \
 Download VSCode - https://code.visualstudio.com/ \
-Download Jupyter Notebook standalone - https://jupyter.org/install/
+Download Jupyter Notebook standalone - https://jupyter.org/install
 
 #### Mac
 1. Clone the git repository

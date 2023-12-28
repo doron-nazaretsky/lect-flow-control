@@ -4,6 +4,7 @@
 ### Setting up the environment
 **Note** - To follow the lecture on your machine, you need python3 installed and some sort of a jupyter notebook runner - Preferably VSCode Jupyter Notebook extension but any other runner is sufficient.
 
+Download Python3 - https://www.python.org/downloads/ \
 Download VSCode - https://code.visualstudio.com/ \
 Download Jupyter Notebook standalone - https://jupyter.org/install/
 
